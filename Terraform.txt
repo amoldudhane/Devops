@@ -147,7 +147,7 @@ Terraform day to day task in a company
 - ssl certificate
 - ssl request 
 - dns attach
-- 
+- devops
 
 
 
