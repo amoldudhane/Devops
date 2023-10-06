@@ -33,8 +33,7 @@ Host a website in s3 - session 10
 - cache policy = to reduce response time 
 - latency/time 
 - 
-_____________________________
-
+____________________________
 AWS S3 storage classes
 reduce gets low according to the classes highest is 	standard and lowest is deep archive 
 - apply life cycle rule to data for cost saving, 
