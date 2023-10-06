@@ -149,8 +149,8 @@ Terraform day to day task in a company
 - dns attach
 - devops
 
+Have to add many notes here... 
 
-saf
 
 
 
